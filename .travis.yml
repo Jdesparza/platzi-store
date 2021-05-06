@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: practicas-mundial:ujiisKyonGtFLcOp1AAmKPWx
   email:
     recipients:
       - jdesparza@utpl.edu.ec
